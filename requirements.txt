@@ -1,0 +1,6 @@
+pyobjc
+clipboard
+bs4
+numpy
+requests
+git+git://github.com/rpetrenko/pyautogui.git
